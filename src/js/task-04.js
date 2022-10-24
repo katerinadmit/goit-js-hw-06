@@ -20,22 +20,5 @@ console.log(decrementBtn)
 
 
 
-// const refs = {
-//     decrementBtn: document.querySelector('[data-action="decrement"]'),
-//     valueLabel: document.querySelector("#value"),
-//     incrementBtn: document.querySelector('[data-action="increment"]'),
-//   };
-//   let counterVal = Number.parseInt(refs.valueLabel.textContent) || 0;
-//   function updateValue(newVal) {
-//     refs.valueLabel.textContent = newVal;
-//   }
-//   refs.decrementBtn.addEventListener("click", () => {
-//     counterVal -= 1;
-//     updateValue(counterVal);
-//   });
-//   refs.incrementBtn.addEventListener("click", () => {
-//     counterVal += 1;
-//     updateValue(counterVal);
-//   });
 
   
